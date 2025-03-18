@@ -1,0 +1,1 @@
+Kalo stress datang ke tempat karaoke kami aja
