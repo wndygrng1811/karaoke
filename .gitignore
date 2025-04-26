@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /node_modules
 /public/hot
 /public/storage
@@ -7,9 +8,33 @@
 .env.backup
 .phpunit.result.cache
 docker-compose.override.yml
+=======
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+/vendor
+.env
+.env.backup
+.env.production
+.phpactor.json
+.phpunit.result.cache
+>>>>>>> cfd92e515c7beca7785ce7f9f8ba2057ff6025a0
 Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+<<<<<<< HEAD
 /.idea
 /.vscode
+=======
+/auth.json
+/.fleet
+/.idea
+/.nova
+/.vscode
+/.zed
+>>>>>>> cfd92e515c7beca7785ce7f9f8ba2057ff6025a0
